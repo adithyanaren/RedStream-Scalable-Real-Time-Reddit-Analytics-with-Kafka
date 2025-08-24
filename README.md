@@ -1,4 +1,4 @@
-# 📊 RedStream: Real-Time Reddit Analytics with Kafka + Flask
+# RedStream: Real-Time Reddit Analytics with Kafka + Flask
 
 RedStream is a **real-time scalable analytics project** that streams Reddit comments into Apache Kafka, performs **word frequency + sentiment analysis**, and visualizes the results in a live Flask dashboard. It also includes a **scalability benchmarking module** that processes multiple datasets of different sizes to evaluate performance.
 
@@ -22,7 +22,7 @@ This project demonstrates **scalable cloud programming concepts** such as:
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 * **Python** (Flask, PRAW, NLTK, TextBlob, kafka-python, matplotlib)
 * **Apache Kafka** (message broker)
@@ -36,7 +36,7 @@ This project demonstrates **scalable cloud programming concepts** such as:
 ```
 RedStream/
 │
-├── data/                          # Datasets (for scalability tests)
+├── data/                          # Datasets (excluded from repo due to size)
 │   ├── comments_negative.csv
 │   ├── kaggle_RC_2019-05.csv
 │   └── Reddit_Data.csv
@@ -49,7 +49,7 @@ RedStream/
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
-└── architecture.png                # System architecture diagram (optional)
+└── LICENSE                        # MIT License
 ```
 
 ---
@@ -158,7 +158,21 @@ This script will:
 
 ---
 
-## 📌 Example Use Cases
+##  Datasets
+
+⚠️ **Note**: Large datasets are **not included in this repository** due to GitHub’s file size limits.
+
+To run the scalability tests, please download or prepare the following CSV files and place them in the `data/` directory:
+
+* [Reddit\_Data.csv (small)](https://drive.google.com/)  ← Replace with actual link
+* [kaggle\_RC\_2019-05.csv (medium)](https://kaggle.com/) ← Replace with actual link
+* [comments\_negative.csv (large)](https://drive.google.com/) ← Replace with actual link
+
+⚠️ You may replace these with your own Reddit datasets if desired.
+
+---
+
+##  Example Use Cases
 
 * Real-time monitoring of social media sentiment
 * Tracking trending words in a community
@@ -166,7 +180,7 @@ This script will:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
