@@ -12,7 +12,7 @@ This project demonstrates **scalable cloud programming concepts** such as:
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Reddit Producer**: Streams live Reddit comments into Kafka using PRAW.
 * **Kafka Consumer**: Processes comments with a **5-minute sliding window** word frequency counter.
@@ -22,7 +22,7 @@ This project demonstrates **scalable cloud programming concepts** such as:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python** (Flask, PRAW, NLTK, TextBlob, kafka-python, matplotlib)
 * **Apache Kafka** (message broker)
