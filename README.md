@@ -11,7 +11,6 @@ This project demonstrates **scalable cloud programming concepts** such as:
 * **Batch scalability benchmarking**
 
 ---
-<img width="1913" height="1009" alt="image" src="https://github.com/user-attachments/assets/d254bfd8-e5f5-4376-8e0f-94798db5a4d8" />
 
 ##  Features
 
@@ -22,8 +21,10 @@ This project demonstrates **scalable cloud programming concepts** such as:
 * **Scalability Benchmarking**: Runs dataset benchmarking on small, medium, and large datasets to measure processing performance.
 
 ---
+<img width="507" height="258" alt="image" src="https://github.com/user-attachments/assets/6ab85344-aab3-44c7-9c5e-7d5ab1a8ba57" />
 
-## 🛠️ Tech Stack
+
+##  Tech Stack
 
 * **Python** (Flask, PRAW, NLTK, TextBlob, kafka-python, matplotlib)
 * **Apache Kafka** (message broker)
