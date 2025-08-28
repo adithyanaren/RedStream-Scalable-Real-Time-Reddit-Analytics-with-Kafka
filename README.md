@@ -11,7 +11,8 @@ This project demonstrates **scalable cloud programming concepts** such as:
 * **Batch scalability benchmarking**
 
 ---
-<img width="1907" height="1004" alt="Screenshot 2025-06-26 125636" src="https://github.com/user-attachments/assets/24b2b2b7-989e-4a2a-aba7-e3f4d9f2081d" />
+<img width="1907" height="1004" alt="Screenshot 2025-06-26 125636" src="https://github.com/user-attachments/assets/24b2b2b7-989e-4a2a-aba7-e3f4d9f2081d" /> <img width="1432" height="867" alt="Screenshot 2025-06-30 104730" src="https://github.com/user-attachments/assets/894f8d78-a609-4f1a-b6d3-e0f2f7333dd5" />
+
 
 ##  Features
 
